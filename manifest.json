@@ -1,0 +1,17 @@
+{
+  "name": "Japan Trip · 日本の旅",
+  "short_name": "Japan Trip",
+  "description": "Personal itinerary, places, food, voice guide, phrases and info for the Japan trip.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#16233F",
+  "theme_color": "#16233F",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
